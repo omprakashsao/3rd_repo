@@ -1,0 +1,8 @@
+class My{
+void main(){
+//code
+}
+void print1(){
+//code
+}
+}
