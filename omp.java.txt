@@ -7,7 +7,7 @@ void print1(){
 }void print2(){
 //code
 }
-void print3(){
+void print4(){
 //code
 }
 
