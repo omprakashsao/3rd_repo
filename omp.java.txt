@@ -5,4 +5,7 @@ void main(){
 void print1(){
 //code
 }
+void scan(){
+//code
+}
 }
