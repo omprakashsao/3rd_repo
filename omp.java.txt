@@ -4,6 +4,9 @@ void main(){
 }
 void print1(){
 //code
+}void print2(){
+//code
 }
+
 
 }
